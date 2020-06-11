@@ -325,5 +325,5 @@ INSERT INTO users (linkedin_user_id, name, company_id, salary_id, sexuality, age
 INSERT INTO users (linkedin_user_id, name, company_id, salary_id, sexuality, age, gender, race, city, state, email, oauthtoken, refreshtoken, expiresin, zipcode) VALUES ('bren-yamaguchi-56179413', 'Bren Yamaguchi', 2, 108, 'Straight', '18 - 35', 'male', 'asian', 'Torrance', 'California', 'brenyamaguchi@gmail.com', 'oauthtoken8', 'refreshtoken8', 10000, '90505');
 INSERT INTO users (linkedin_user_id, name, company_id, salary_id, sexuality, age, gender, race, city, state, email, oauthtoken, refreshtoken, expiresin, zipcode) VALUES ('stephanie-wood-76123485', 'Stephanie Wood', 2, 109, 'Straight', '36 - 50', 'female', 'White', 'Long Beach', 'California', 'stephaniewood@gmail.com', 'oauthtoken9', 'refreshtoken9', 10000, '90814');
 
-
+ 
 
